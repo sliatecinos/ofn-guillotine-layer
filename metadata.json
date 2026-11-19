@@ -1,0 +1,6 @@
+{
+  "name": "ofn-guillotine-layer GIMP 3.x",
+  "description": "Adaptação do plugin ofn-guillotine-layer para GIMP 3.x (PyGObject / GI) com simulador interativo de fatiamento por guias e comparativo de migração.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
